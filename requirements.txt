@@ -7,4 +7,4 @@ M2Crypto==0.35.2
 MarkupSafe==0.23
 python-gflags==2.0
 Werkzeug==0.16.0
-wheel==0.24.0
+wheel==0.34.2
