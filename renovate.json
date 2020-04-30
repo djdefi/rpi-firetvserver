@@ -2,7 +2,7 @@
     "extends": [
         "config:base",
         ":automergeMinor",
-        ":automergeDigest",
+        ":automergeDigest"
     ],
     "packageRules": [
         {
