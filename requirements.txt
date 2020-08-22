@@ -3,7 +3,7 @@ flask==1.1.2
 itsdangerous==1.1.0
 Jinja2==2.11.2
 libusb1==1.8
-M2Crypto==0.35.2
+M2Crypto==0.36.0
 MarkupSafe==1.1.1
 python-gflags==3.1.2
 Werkzeug==1.0.1
